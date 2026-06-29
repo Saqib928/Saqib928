@@ -70,8 +70,8 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saqib928&show_icons=true&theme=radical&hide_border=true" alt="Saqib's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqib928&show_icons=true&theme=dark&hide_border=true" alt="Saqib's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib928&theme=dark&hide_border=true" alt="Saqib's Contribution Streak" width="48%" />
 </p>
 
 ---
